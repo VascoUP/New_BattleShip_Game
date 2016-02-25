@@ -1,0 +1,4 @@
+Vasco 16 4 x 4 2 
+Sara 16 4 x 4 2 
+Sara 24 4 x 4 2 
+Sara 32 4 x 4 2 

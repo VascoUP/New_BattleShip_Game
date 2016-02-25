@@ -1,0 +1,11 @@
+10 x 10
+P 5 Ca H 10
+F 4 Eg H 10
+C 3 Gh H 10
+S 2 Da V 10
+S 2 Fb V 10
+L 1 Fg V 10
+L 1 Ae V 10
+L 1 If V 10
+L 1 Dd V 10
+C 3 Gd V 10
